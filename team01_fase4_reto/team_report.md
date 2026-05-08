@@ -38,3 +38,9 @@ Durante la depuración en x32dbg, se lograron los siguientes hitos:
 
 ## 6. Conclusión
 El binario `team_payload.exe` representa un ejemplo clásico de malware persistente en memoria. Al no escribir archivos adicionales en disco y cifrar sus strings, logra evadir escaneos antivirus tradicionales. La detección exitosa solo fue posible mediante el análisis de la memoria RAM y la intercepción de las funciones de bajo nivel del sistema operativo.
+
+## 7. Imagenes
+x64dbg
+<img width="1025" height="764" alt="image" src="https://github.com/user-attachments/assets/c09978c8-ddfd-40f8-8b10-0095f7e84c45" />
+Ghidra
+<img width="696" height="580" alt="image" src="https://github.com/user-attachments/assets/0c02ae9c-6e2d-4632-9d43-fe3ca5987863" />
