@@ -1,1 +1,0 @@
-# Analisis-y-Detecci-n-de-T-cnicas-Ofensivas-en-un-Binario
