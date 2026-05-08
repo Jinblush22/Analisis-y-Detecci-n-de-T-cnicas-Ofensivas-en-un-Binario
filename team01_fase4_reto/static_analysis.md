@@ -28,6 +28,8 @@ El análisis de las librerías vinculadas dinámicamente revela el uso de funcio
 **Conclusión del análisis de Imports:** El binario tiene la capacidad técnica de inyectar o ejecutar código en regiones de memoria recién creadas, un comportamiento característico de stagers o droppers.
 
 <img width="1025" height="764" alt="image" src="https://github.com/user-attachments/assets/2c11a9e9-cb53-4650-b2e9-8ecd69921cbc" />
+<img width="521" height="336" alt="image" src="https://github.com/user-attachments/assets/96641079-69b2-4b2a-a92d-63fc8de22e47" />
+
 
 ## 5. Resumen de Riesgos
 1.  **Ofuscación de Datos:** El payload principal no es visible mediante inspección estática.
